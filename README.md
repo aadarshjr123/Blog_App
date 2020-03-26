@@ -7,5 +7,5 @@ npm install json-server ngrok
 # Edit package.json
 
 # Run
-  npm run db
+  npm run db /n
   npm run tunnel
